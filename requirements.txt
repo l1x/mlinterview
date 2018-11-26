@@ -1,0 +1,5 @@
+sklearn
+pandas
+jupyter
+bokeh
+Flask
